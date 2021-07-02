@@ -4,6 +4,7 @@ tap 'homebrew/cask'
 brew 'git'
 brew 'go'
 brew 'awscli'
+brew 'kubectl'
 
 #casks
 cask 'visual-studio-code'
