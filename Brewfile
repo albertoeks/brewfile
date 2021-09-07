@@ -8,6 +8,7 @@ brew 'kubectl'
 
 #casks
 cask 'visual-studio-code'
+cask 'iterm2'
 cask 'postman'
 cask 'slack'
 cask 'zoom'
