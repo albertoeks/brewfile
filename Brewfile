@@ -3,6 +3,7 @@ tap 'homebrew/cask'
 #brews
 brew 'git'
 brew 'go'
+brew 'make'
 brew 'node'
 brew 'awscli'
 brew 'kubectl'
