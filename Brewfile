@@ -9,6 +9,8 @@ brew 'awscli'
 brew 'kubectl'
 brew 'jq'
 brew 'yq'
+brew 'helm'
+brew 'kind'
 
 #casks
 cask 'visual-studio-code'
